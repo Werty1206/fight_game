@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## 🎮 Запуск игры
 ```bash
-python main.py
+python matrix.py
 ```
 
 ## 🕹 Управление
